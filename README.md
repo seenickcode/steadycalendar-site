@@ -1,12 +1,8 @@
-# Astro Starter Kit: Portfolio
+# Steady Calendar Marketing Site
 
 ```
-npm init astro -- --template portfolio
+pnpm install
 ```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/snowpackjs/astro/tree/latest/examples/portfolio)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ## 🧞 Commands
 
