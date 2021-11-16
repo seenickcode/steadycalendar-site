@@ -1,0 +1,229 @@
+p {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    color: #575757;
+    font-size: 18px;
+    line-height: 32px;
+    opacity: 0.85;
+}
+
+ul {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+li {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    color: #575757;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+p.text-centered {
+  text-align: center;
+}
+b {
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+}
+h1 {
+    color: #49A9B3;
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+    text-align: center;
+    margin: 60px 0px 40px 0px;
+}
+h2 {
+    color: #49A9B3;
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    margin: 10px 0px;
+}
+h3 {
+    color: #49A9B3;
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    margin: 10px 0px;
+    line-height: 32px;
+}
+
+a {
+    color: grey;
+}
+
+a:hover {
+    color: #49A9B3;
+}
+
+a p {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+a.footer:hover {
+    color: white;
+}
+
+#mce-EMAIL ::-webkit-input-placeholder {
+   color: red;
+}
+
+#mce-EMAIL :-moz-placeholder { /* Firefox 18- */
+   color: red;  
+}
+
+#mce-EMAIL ::-moz-placeholder {  /* Firefox 19+ */
+   color: red;  
+}
+
+#mce-EMAIL :-ms-input-placeholder {  
+   color: red;  
+}
+
+/*placeholder {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    color: #575757;
+    font-size: 18px;
+    line-height: 32px;
+    opacity: 0.85;
+}*/
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+p.centered {
+    width: 100%;
+    text-align: center;
+}
+.showcase-text h1 {
+    margin: 60px 0px 40px 0px;
+}
+.showcase-text p {
+    margin: 30px 0px 50px 0px;
+    line-height: 32px;
+    width: 100%;
+    text-align: center;
+}
+.value-prop-section {
+    padding: 50px 0px;
+}
+.value-prop-section h1 {
+    font-size: 20px;
+    text-align: left;
+    margin: 20px 0px;
+}
+.value-prop-subcol {
+    padding-top: 60px;
+}
+.value-prop-subcol h2 {
+    margin: 15px 0px;
+}
+#section1 {
+    /*background-color: blue !important;*/
+    background-image: url('/assets/images/main-background-faded-fitness.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    margin: 0 auto;
+    width: 100%;
+    height: 700px;
+}
+#section1 .announcement-banner {
+    background-color: #3B9DA8;
+    font-size: 14;
+    color: white;
+    min-height: 32px;
+}
+#section1 .announcement-banner p {
+    padding-top: 5px;
+    min-height: 32px;
+    word-wrap: break-word;
+    padding-bottom: 5px;
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: center;
+}
+#section1 #logo-row {
+    padding-top: 100px;
+}
+#section1 h1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#section1 .banner-caption {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+    opacity: 0.85;
+}
+.download {
+    padding-top: 70px;
+}
+#section2 {
+    padding-bottom: 50px;
+}
+#section3 {
+    background-color: #FBFBFB;
+}
+#section5 {
+    background-color: #FBFBFB;
+}
+.value-prop-subcol p {
+    margin-bottom: 60px;
+}
+
+#section7 {
+    padding-bottom: 50px;
+    background-color: #FBFBFB;
+}
+#section7 h1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#section9 {
+  background-color: #FBFBFB;
+  padding-bottom: 50px;
+}
+
+#section11 {
+  background-color: #49A9B3;
+  padding-bottom: 50px;
+  padding-top:50px;
+}
+
+
+#mc_embed_signup input[type='email'] {
+  font-size: 18px !important;
+  font-family: 'Muli', sans-serif !important;
+  font-weight: 100;
+  width: 400px !important;
+  height: 50px !important;
+  padding: 5px 0px 0px 5px !important;
+  text-align: center;
+  margin: 0px 0px 8px 0px !important;
+  border-radius: 0px !important;
+  opacity: 0.5;
+}
+#mc_embed_signup input[type='submit'] {
+  font-size: 18px !important;
+  font-family: 'Muli', sans-serif !important;
+  font-weight: 100;
+  width: 400px !important;
+  height: 50px !important;
+  background-color: #3B9DA8;
+  color: white;
+  border-radius: 0px !important;
+  margin: 0px 0px 5px -3px !important;
+}
+
+body {
+    background-color: white;
+}

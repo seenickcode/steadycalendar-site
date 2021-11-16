@@ -1,0 +1,39 @@
+---
+import Header from '../components/header.astro';
+import Footer from '../components/footer.astro';
+---
+<!DOCTYPE html>
+<html lang="en-US">
+<title>Steady Calendar</title>
+  <Header />
+  <body>
+    <section id="about">
+        <div class="container">
+            
+            <div class="row" id="about_intro">
+                <div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3" >
+                    
+                    <h2>Support</h2>
+                    <br /><br />
+                    <p>Questions? Comments? Feedback? Email us anytime.</p>
+                    <p>hello@manninglabs.com</p>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    
+    <!-- JavaScript plugins comes here -->
+    <script src="assets/vendor/hype/js/jquery-2.0.3.min.js"></script>
+    <script src="assets/vendor/hype/js/jquery.easing.min.js"></script>
+    <script src="assets/vendor/hype/js/jquery.scrollTo.js"></script>
+    <script src="assets/vendor/hype/js/jquery.form.js"></script>
+    <script src="assets/vendor/hype/js/main.js"></script>
+    <script src="assets/vendor/hype/js/retina.js"></script>
+    <script src="assets/vendor/hype/js/waypoints.min.js"></script>
+    <script src="assets/vendor/hype/js/owl.carousel.min.js"></script>
+    <script src="assets/vendor/hype/js/nivo-lightbox.min.js"></script>  
+    <Footer client:only />
+  </body>
+</html>
